@@ -1,0 +1,14 @@
+layout_spectrum: 0.9013491
+color:
+  saturation: 0.1727393
+  lightness: 0.2405294
+  brandStrength: 0.822091
+  brandColors:
+    - '#1E1616'
+    - '#91644C'
+    - '#FFFFFB'
+    - '#A4C6E8'
+    - '#FFFF26'
+  rhythmicContrast: 0.1078383
+typography_spectrum: 0.2615993
+name: Travel Journal
